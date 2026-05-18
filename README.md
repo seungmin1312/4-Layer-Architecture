@@ -5,7 +5,7 @@
 > 컴파일은 되지 않지만 구조와 패턴을 그대로 읽을 수 있게 정리되어 있습니다.
 >
 > **Target MCU:** Renesas RA (FSP) · **RTOS:** Azure RTOS ThreadX
-> **Original domain:** 의료기기 RF 제어 펌웨어 (IEC 62304 대응)
+> **Original domain:** 의료기기 멸균기 제어 펌웨어 (IEC 62304 대응)
 
 ---
 
